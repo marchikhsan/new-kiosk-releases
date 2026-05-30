@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "Pembaruan otomatis Kiosk Antrean versi 1.2.7",
-  "pub_date": "2026-05-30T01:50:42Z",
+  "version": "1.2.8",
+  "notes": "Pembaruan otomatis Kiosk Antrean versi 1.2.8",
+  "pub_date": "2026-05-30T02:22:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQWhob3NKamVTZTkyME9nckxqSjZBNVUzckJKVWpRU2cveW5aZVZFaDN6UlRxZHNPOHhoMlh4MDMzZC81R2p6MkhXa0ZtalhnaXNSam80TVRKSHFFOCtxMEFWQWN5TUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTA1ODMxCWZpbGU6S2lvc2sgQW50cmVhbl8xLjIuN194NjQtc2V0dXAuZXhlCkxEWkRhMnBDUWVGRkNyREdVMjFEYkNuOE9hamRFN1lsb1lBRHJqcFpENXE1WVNHRDJ2ek9QMU96dk83UFhNQnhidUx1NlhLbnVqS0dTMnRidHZSWENBPT0K",
-      "url": "https://github.com/marchikhsan/new-kiosk-releases/releases/download/v1.2.7/Kiosk.Antrean_1.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQWhob3NKamVTZTQ0Snc3bFhzMVBBTXU5QUdmY0NGODhWZXdTN3hhTy9BSGRJM2NGTGNPR1lNVFN4MTdrNlhzbE5RV2ltRkp0VHJRb282U2srdFRFbUx3V3VtZE40dFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTA3NzE2CWZpbGU6S2lvc2sgQW50cmVhbl8xLjIuOF94NjQtc2V0dXAuZXhlCmJWaDY1WXQrbkI4Umo5VG04MzBEYmR4WGdLSlg3SmFhRlBNNG9qeUJQa0FpcGIwcHFxc2RBbXZtQ3dhbTN6SE9BcjF2VlJjdS9EZ3JaN3lib3hieUJ3PT0K",
+      "url": "https://github.com/marchikhsan/new-kiosk-releases/releases/download/v1.2.8/Kiosk.Antrean_1.2.8_x64-setup.exe"
     }
   }
 }
